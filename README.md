@@ -28,7 +28,7 @@ O objetivo desse trabalho é criar um codigo que converta as intruções de um [
 para executar o programa
 
 ```bash
-¢ python main.py arquivo_de_entrada.txt
+$ python main.py arquivo_de_entrada.txt
 ```
 
 neste exemplo a saida estará em arquivo_de_entrada.out.txt
